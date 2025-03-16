@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "NEXVERSE STUDIO",
-  description: "The future starts here",
+  description: "The Future Starts Here!",
 };
 
 export default function RootLayout({
