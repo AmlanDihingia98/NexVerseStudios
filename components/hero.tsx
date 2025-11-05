@@ -15,7 +15,7 @@ export default function Hero() {
           Your Next Project
         </h1>
         <p className="mt-6 text-xl text-muted-foreground max-w-2xl mx-auto">
-        Ready to take your business to the next level? Whether you need a new website, AI automation, or a custom chatbot solution, we&apos;re here to help. Get in touch with us to discuss your project today!
+        Looking to grow your business with cutting-edge digital solutions? From Websites/App to AI automations and custom chatbots — we bring your ideas to life. Contact us today and let’s discuss your next big project.
         </p>
         <div className="mt-10 flex justify-center gap-4">
           <ShimmerButton className="shadow-2xl">
