@@ -4,22 +4,22 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 const features = [
   {
     name: "Advanced AI Agents",
-    description: "Develop sophisticated AI agents capable of complex decision-making and natural language processing.",
+    description: "Develop next-gen AI agents that learn, adapt, and automate — empowering your business to work smarter, faster, and more efficiently.",
     icon: Bot,
   },
   {
     name: "Workflow Automation",
-    description: "Quickly iterate and test your AI models with our intuitive development environment.",
+    description: "Eliminate repetitive tasks and streamline your operations with our AI-driven workflow automation tools.",
     icon: Zap,
   },
   {
-    name: "Website Deployment",
-    description: "Deploy your AI agents with confidence using our secure and scalable infrastructure.",
+    name: "App & Website Deployment",
+    description: "From concept to launch — we make your digital presence come alive.",
     icon: Shield,
   },
   {
-    name: "Digital Marketing",
-    description: "Gain valuable insights into your AI agents' performance with advanced analytics tools.",
+    name: "Social Media Marketing",
+    description: "Maximize your brand’s visibility and performance through data-backed social media strategies.",
     icon: BarChart,
   },
 ]
