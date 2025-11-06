@@ -51,13 +51,13 @@ export default function Header() {
                     </NavigationMenuLink>
                   </li>
                   <ListItem href="#" title="Automation">
-                    Quickly iterate and test your AI models.
+                    Eliminate repetitive tasks and streamline your operations with our AI-driven workflow automation tools.
                   </ListItem>
-                  <ListItem href="#" title="Website Deployment">
-                    Deploy with confidence using our secure infrastructure.
+                  <ListItem href="#" title="APP & Website Deployment">
+                    From concept to launch — we make your digital presence come alive.
                   </ListItem>
-                  <ListItem href="#" title="Digital Marketing">
-                   Gain insights from your AI agents performance.
+                  <ListItem href="#" title="Social Media Marketing">
+                   Maximize your brand’s visibility and performance through data-backed social media strategies.
                   </ListItem>
                 </ul>
               </NavigationMenuContent>
