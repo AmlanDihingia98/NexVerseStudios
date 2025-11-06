@@ -4,26 +4,22 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 const features = [
   {
     name: "Advanced AI Agents",
-    description: "Harness the power of next-generation artificial intelligence.
-We specialize in developing intelligent AI agents capable of advanced decision-making, automation, and seamless natural language interaction. Whether it’s a customer support bot, autonomous system, or data-driven assistant, our AI solutions learn, adapt, and evolve with your business — helping you work smarter, faster, and more efficiently.",
+    description: "Develop sophisticated AI agents capable of complex decision-making and natural language processing.",
     icon: Bot,
   },
   {
     name: "Workflow Automation",
-    description: "Eliminate repetitive tasks and streamline your operations with our AI-driven workflow automation tools.
-Our platform allows you to build, test, and optimize automation models quickly, ensuring faster deployment and better productivity across your organization.",
+    description: "Quickly iterate and test your AI models with our intuitive development environment.",
     icon: Zap,
   },
   {
-    name: "App & Website Deployment",
-    description: "From concept to launch — we make your digital presence come alive.
-Our team ensures secure, scalable, and high-performance deployment for your apps and websites. Whether you’re launching an MVP or an enterprise platform, we deliver end-to-end deployment solutions tailored to your goals.",
-    icon: monitor-check,
+    name: "Website Deployment",
+    description: "Deploy your AI agents with confidence using our secure and scalable infrastructure.",
+    icon: Shield,
   },
   {
-    name: "Social Media Marketing",
-    description: "Maximize your brand’s visibility and performance through data-backed social media strategies.
-We combine creativity with analytics to help you reach the right audience, grow engagement, and track ROI across every campaign.",
+    name: "Digital Marketing",
+    description: "Gain valuable insights into your AI agents' performance with advanced analytics tools.",
     icon: BarChart,
   },
 ]
